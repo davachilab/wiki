@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Lab info
-permalink: /background
+permalink: /onboarding
 nav_order: 2
-has_children: no
+has_children: true
 
 ---
 
