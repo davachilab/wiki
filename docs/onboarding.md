@@ -7,5 +7,5 @@ has_children: no
 
 ---
 
-# Background
+# Onboarding
 {: .no_toc }
