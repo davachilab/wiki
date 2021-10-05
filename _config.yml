@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Davachi Lab Wiki
-baseurl: "/wiki" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://davachilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
